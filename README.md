@@ -1,4 +1,4 @@
-# Pac-Man Animation Program
+# single pack man Animation Program
 
 ## Overview
 
